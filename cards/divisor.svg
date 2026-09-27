@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <rect y="50%" width="100%" height="1" fill="#D6E4EE"/>
+  <rect y="50%" width="90" height="3" transform="translate(0,-1)" fill="#0C7AA7"/>
+  <rect x="90" y="50%" width="30" height="3" transform="translate(0,-1)" fill="#C9A646"/>
+</svg>

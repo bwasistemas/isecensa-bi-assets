@@ -34,6 +34,8 @@ Esticam para o tamanho do widget sem distorcer os cantos.
 | `https://cdn.jsdelivr.net/gh/bwasistemas/isecensa-bi-assets@main/cards/card-kpi-branco.svg` | Card branco com barra lateral azul |
 | `https://cdn.jsdelivr.net/gh/bwasistemas/isecensa-bi-assets@main/cards/card-kpi.svg` | Card azul claro com barra superior azul — um por KPI |
 | `https://cdn.jsdelivr.net/gh/bwasistemas/isecensa-bi-assets@main/cards/faixa-kpi.svg` | Faixa com degradê e filetes azul + dourado — atrás da linha de KPIs |
+| `https://cdn.jsdelivr.net/gh/bwasistemas/isecensa-bi-assets@main/cards/divisor.svg` | Linha fina com destaque azul + dourado — separar seções (altura ~20px) |
+| `https://cdn.jsdelivr.net/gh/bwasistemas/isecensa-bi-assets@main/cards/titulo-secao.svg` | Faixa de título de seção (barra lateral azul) — pôr um texto Sub-headline por cima (altura ~30px) |
 
 ## Ícones (Font Awesome 6 Solid)
 
